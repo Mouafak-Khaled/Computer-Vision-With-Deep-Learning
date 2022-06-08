@@ -1,0 +1,9 @@
+*.swp
+*.pyc
+.env/*
+*.ipynb_checkpoints/*
+
+# gitignore the built release
+Assignment1/comp411/datasets/*.
+Assignment2/comp411/datasets/*
+Assignment3/comp411/datasets/*
